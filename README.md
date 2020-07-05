@@ -32,4 +32,4 @@ This project aims to analyse the chemical properties of superconductors and deve
 
 ## Key Achievements
 Achieved to predict the critical temperature with ± 9.7°K RMSE using XGBoost regression trees
-whereas the <a href="https://arxiv.org/pdf/1803.10260.pdf" target="_blank">the state-of-art model</a> for this task achieves ± 9.5°K RMSE.
+whereas the <a href="https://arxiv.org/pdf/1803.10260.pdf" target="_blank">state-of-art model</a> for this task achieves ± 9.5°K RMSE.
